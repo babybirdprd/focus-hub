@@ -36,7 +36,7 @@
   },
   "plugins": {
     "store": {
-        "path": "store.bin"
+        "path": "watchlist.json"
     }
   }
 }

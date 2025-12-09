@@ -1,0 +1,1 @@
+{"identifier": "default", "description": "default capability", "local": true, "permissions": ["core:default", "store:default", "shell:default", "http:default", "core:window:allow-open-external"]}
